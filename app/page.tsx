@@ -11,7 +11,7 @@ export default function HomePage() {
         </a>
         <a className="topbar-link" href="#teacher-notes">
           <BookOpen aria-hidden="true" />
-          <span>Teacher notes</span>
+          <span>Teacher notes [toto je moje zmena, a abcdef]</span>
         </a>
       </header>
 
